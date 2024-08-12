@@ -1,0 +1,15 @@
+  caractere:
+  char c; - 1 byte
+  cin.get(c)-citeste un singur carcter dar poate citi space si caractere invizibile pe ecran;
+  sizeof(char)-afiseaza cat spatiu ocupa in bytes;
+
+  short int :
+  short--> 2 bytes = 16 biti
+  2^16 valori posibile;
+
+  int --> 4 bytes = 32 biti
+  2^32 valori posibile;
+
+  long long --> 8 bytes = 64 biti  
+  
+
