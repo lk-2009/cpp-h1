@@ -13,3 +13,6 @@
   long long --> 8 bytes = 64 biti  
   
 
+// 1sec=200.000.000 operatii
+// include  <climits> ca sa folosesc INT_MAX/MIN;
+// 1 mil intregi->>4 mb;
