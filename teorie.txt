@@ -16,3 +16,9 @@
 // 1sec=200.000.000 operatii
 // include  <climits> ca sa folosesc INT_MAX/MIN;
 // 1 mil intregi->>4 mb;
+/*la two pointers:
+daca am restrictii naspa in problema, la inceput-elimina-le!!!!!
+la pbinfo_memorie006-curs4
+1.timpul => brut decent
+2.memoria => 100mb
+3.tipul de date(nr prea mari) => nr sunt mici
